@@ -1,3 +1,5 @@
+import "./styles/index.scss";
+
 const clothes = {
   shoes: 2,
   shirts: 4,
