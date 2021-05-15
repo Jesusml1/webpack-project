@@ -3,7 +3,7 @@ import { useState } from "react";
 const clothes = {
   shoes: 2,
   shirts: 4,
-  pants: 1,
+  pants: 5,
 };
 
 const things = {
